@@ -7,7 +7,7 @@ $e_officer= "ken";
 
 if ($text == "") {
     
-    $response = "CON welcome to M-kuku Please select an option\n";
+    $response = "CON welcome to M-Poultry Please select an option\n";
     $response .="1. Customers \n";
     $response .="2. Research institutions\n";
     $response .="3. Extension officers\n";
