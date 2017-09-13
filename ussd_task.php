@@ -52,7 +52,7 @@ if($text == "5*1"){
 $userResponse = explode("*", $text);
 $name = $userResponse[2];
 if(!empty($name)){
-    $response = "END your profile name is ".$name. "Thanks for using M-kuku platform!!";
+    $response = "END your profile name is ".$name. "Thanks for using M-Poultry platform!!";
 }
 
 if($text =="98"){
